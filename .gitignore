@@ -37,6 +37,9 @@ env/
 workspace/
 *.log
 
+# Runtime cache
+data-gym-cache/
+
 # OS
 .DS_Store
 Thumbs.db
